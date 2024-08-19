@@ -2,4 +2,4 @@
 - 👀 I’m interested in HTML, CSS, Javascript, Git and GitHub
 - 🌱 I’m currently learning Git and Github
 - 💞️ I’m looking to collaborate on a company
-- 📫 How to reach me linkedin.com/in/s%C3%A1vio-queiroz-monteiro-434203309/
+- 📫 How to reach me www.linkedin.com/in/sávio-queiroz-monteiro-434203309
