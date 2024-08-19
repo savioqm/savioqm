@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @savioqm
-- 👀 I’m interested in html, css, javascript, git and github
-- 🌱 I’m currently learning git and github
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in HTML, CSS, Javascript, Git and GitHub
+- 🌱 I’m currently learning Git and Github
+- 💞️ I’m looking to collaborate on a company.
+- 📫 How to reach me linkedin.com/in/s%C3%A1vio-queiroz-monteiro-434203309/
 
 <!---
 savioqm/savioqm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
